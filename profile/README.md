@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1111226154293133362/1152628065239838790/IMG_20230916_183205_163.png" />
+  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/latest.png" />
 </p>
 
 ### Welcome to the world of DroidX-UI 
