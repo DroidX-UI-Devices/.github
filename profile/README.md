@@ -2,11 +2,11 @@
   <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/latest.png" />
 </p>
 
-### Welcome to the world of DroidX-UI 
+# Welcome to the world of DroidX-UI 
 
 innovative operating system designed to provide a seamless and user-friendly experience. With its sleek interface and easy access to apps and settings, DroidX-UI takes your device to the next level
 
-### OFFICIAL Devices of DroidX-UI
+# OFFICIAL Devices of DroidX-UI
 
 <!--START_SECTION:devices-->
 ### • Asus Devices
