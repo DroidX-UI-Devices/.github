@@ -37,6 +37,7 @@ innovative operating system designed to provide a seamless and user-friendly exp
 - Mi 11x Pro/K40 Pro+_/Mi_ 11i (haydn)
 - Mi 11t pro (vili)
 - Redmi 9 Power/Poco M3 (chime)
+- Redmi Note 8 pro (begonia)
 ```
 
 ### • Poco Devices
@@ -45,6 +46,7 @@ innovative operating system designed to provide a seamless and user-friendly exp
 - Poco F3/Mi 11X (Alioth)
 - Poco F5 (marble)
 - Poco X3 nfc (surya)
+- Poco X5 pro (redwood)
 ```
 
 ### • Oneplus Devices
