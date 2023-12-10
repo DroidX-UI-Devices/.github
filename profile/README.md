@@ -32,6 +32,7 @@ innovative operating system designed to provide a seamless and user-friendly exp
 - Redmi K20 pro (Raphael)
 - Redmi Note 7/7S (lavender)
 - Redmi 6pro (sakura)
+- Redmi 12 5G (sky)
 - Redmi Note 5pro (whyred)
 - Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa)
 - Mi 11x Pro/K40 Pro+_/Mi_ 11i (haydn)
