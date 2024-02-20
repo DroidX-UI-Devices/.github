@@ -19,7 +19,6 @@ innovative operating system designed to provide a seamless and user-friendly exp
 - Realme 3 Pro (RMX1851)
 - Realme C3/Narzo 10A (RMX2020)
 - Realme Gt neo 3t (RMX3371)
-- Realme 5/5i/5s (r5x)
 ```
 
 ### • Redmi Devices
@@ -39,6 +38,9 @@ innovative operating system designed to provide a seamless and user-friendly exp
 - Mi 11t pro (vili)
 - Redmi 9 Power/Poco M3 (chime)
 - Redmi Note 8 pro (begonia)
+- Redmi Note 12 4G (topaz)
+- Redmi 12 5g (sky)
+- Mi 10T/Pro/K30S ultra (apollo)
 ```
 
 ### • Poco Devices
@@ -48,11 +50,17 @@ innovative operating system designed to provide a seamless and user-friendly exp
 - Poco F5 (marble)
 - Poco X3 nfc (surya)
 - Poco X5 pro (redwood)
+- Poco M4 Pro (fleur)
+- Poco M3 Pro (camellia)
+- Poco X5 5g/Note 12 5g (stone)
 ```
 
 ### • Oneplus Devices
 ```
-- OnePlus 9RT (Martini)
+- Oneplus 8 (instantnoodle)
+- Oneplus 8 Pro (instantnoodlep)
+- Oneplus 8T (kebab)
+- Oneplus 9R  (lemonades
 ```
 
 ### • Samsung Devices
@@ -71,6 +79,17 @@ innovative operating system designed to provide a seamless and user-friendly exp
 - Motorola G32 (devon)
 - Motorola G42 (hawao)
 - Motorola G52 (rhode)
+```
+
+### • Pixel Devices
+```
+- Google Pixel 7 (Panther)
+```
+
+
+### • Nothing Devices
+```
+- Nothing Phone 2 (pong)
 ```
 
 ### Official Support Group & Channel
