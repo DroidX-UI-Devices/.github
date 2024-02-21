@@ -16,9 +16,9 @@ innovative operating system designed to provide a seamless and user-friendly exp
 
 ### • Realme Devices
 ```
-- Realme 3 Pro (RMX1851)
 - Realme C3/Narzo 10A (RMX2020)
 - Realme Gt neo 3t (RMX3371)
+- Realme 7 pro (RMX2170)
 ```
 
 ### • Redmi Devices
@@ -29,15 +29,17 @@ innovative operating system designed to provide a seamless and user-friendly exp
 - Redmi Note 9 Pro (Miatoll)
 - Redmi Note 10 Pro (sweet)
 - Redmi K20 pro (Raphael)
-- Redmi Note 7/7S (lavender)
-- Redmi 6pro (sakura)
-- Redmi 12 5G (sky)
+- Redmi 6 pro (sakura)
 - Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa)
 - Mi 11x Pro/K40 Pro+_/Mi_ 11i (haydn)
 - Mi 11t pro (vili)
 - Redmi 9 Power/Poco M3 (chime)
+- Redmi Note 11 (spes)
+- Redmi Note 6 pro (tulip) 
+- Redmi Note 7/7S (lavender) 
 - Redmi Note 8 pro (begonia)
 - Redmi Note 12 4G (topaz)
+- Redmi 12 5g (sky)
 - Mi 10T/Pro/K30S ultra (apollo)
 ```
 
