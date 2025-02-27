@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/vendor_droidxOTA/15/banners/latest.png" />
+  <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/vendor_droidxOTA/15/assets/banners/latest.jpg" />
 </p>
 
 # Welcome to the world of DroidX-UI 
