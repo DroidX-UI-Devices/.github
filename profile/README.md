@@ -27,6 +27,12 @@ innovative operating system designed to provide a seamless and user-friendly exp
 - Redmi Note 11 Pro 5G (veux)
 ```
 
+### • Google Devices
+```
+- Google Pixel 7 (panther)
+- Google Pixel 7 Pro (cheetah)
+```
+
 ### • Oneplus Devices
 ```
 - Oneplus 8 (instantnoodle)
